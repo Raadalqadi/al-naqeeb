@@ -1,5 +1,7 @@
 # Al-Naqeeb
 
+![Al-Naqeeb Preview](./assets/preview.jpg)
+
 Professional corporate platform delivered as a full-stack web product for a client through Becon Agency.
 
 ## Overview
